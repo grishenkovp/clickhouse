@@ -1,0 +1,14 @@
+#YAML
+DB_PG:
+  USER: 'postgres'
+  PASSWORD: 'postgres'
+  HOST: 'localhost'
+  PORT: 5432
+  NAME: 'db'
+  
+DB_CH:
+  USER: 'default'
+  PASSWORD: ''
+  HOST: 'localhost'
+  PORT: 8123
+  NAME: 'db'
